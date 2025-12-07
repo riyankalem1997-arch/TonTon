@@ -3,12 +3,8 @@ Aplikasi sosial media
 
 # TonTon
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/ConnectHub/ConnectHub.svg)](https://github.com/ConnectHub/ConnectHub/issues)
-[![GitHub stars](https://img.shields.io/github/stars/ConnectHub/ConnectHub.svg)](https://github.com/ConnectHub/ConnectHub/stargazers)
-
 ## Deskripsi
-TonTon adalah aplikasi sosial media yang memungkinkan pengguna terhubung dengan teman, keluarga, dan komunitas berdasarkan minat dan lokasi. Dengan fitur-fitur canggih dan antarmuka yang ramah pengguna, ConnectHub adalah pilihan ideal untuk mereka yang ingin terhubung dengan orang lain.
+TonTon adalah aplikasi sosial media yang memungkinkan pengguna terhubung dengan teman, keluarga, dan komunitas berdasarkan minat dan lokasi. Dengan fitur-fitur canggih dan antarmuka yang ramah pengguna, TonTon adalah pilihan ideal untuk mereka yang ingin terhubung dengan orang lain.
 
 ## Fitur Utama
 - *Profil Pengguna*: Buat dan edit profil dengan foto, bio, dan info kontak
@@ -23,12 +19,6 @@ TonTon adalah aplikasi sosial media yang memungkinkan pengguna terhubung dengan 
 - *Backend*: Node.js, Express.js
 - *Database*: MongoDB
 - *API*: RESTful API dengan autentikasi JWT
-
-## Cara Instalasi
-1. Clone repositori ini (`git clone https://github.com/ConnectHub/ConnectHub.git`)
-2. Masuk ke direktori proyek (`cd ConnectHub`)
-3. Instal dependensi (`npm install`)
-4. Jalankan aplikasi (`npm start`)
 
 ## Cara Kontribusi
 1. Fork repositori ini
